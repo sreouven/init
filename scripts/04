@@ -1,0 +1,4 @@
+#! /bin/sh
+
+NOM_FICHIER = "/etc/crontab"
+
