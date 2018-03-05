@@ -1,1 +1,1 @@
-service ssh status | grep PID:
+pidof sshd
