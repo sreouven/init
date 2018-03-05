@@ -1,3 +1,3 @@
+#en etant root
 #crontab -e
-# 0 4 * * 1 sh /root/02
-apt-get update -y && apt-get upgrade -y >> /var/log/update_script.log
+# 0 4 * * 1 apt-get update -y && apt-get upgrade -y >> /var/log/update_script.log
